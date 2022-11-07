@@ -21,12 +21,5 @@ Viso um futuro onde, trabalhando na area, eu nao só seja bom o suficiente para 
  <img src="https://img.icons8.com/fluency/48/000000/node-js.png"/>  <img src="https://img.icons8.com/color/48/000000/sass.png"/> <img src="https://user-images.githubusercontent.com/83739628/147862737-33f8ebf8-4d9e-4da6-93d8-9db063a0fe3f.png" width="48px"> 
 <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png"/> <img src="https://img.icons8.com/color/48/000000/git.png"/>
 </div><br/>
-
-
-<div align="center" >
-  <img width="50%" height="100%" src="https://github-readme-stats.vercel.app/api?username=LeonardoMachadoF&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img width="42%" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoMachadoF&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
  
  Icons by: https://icons8.com.br/
