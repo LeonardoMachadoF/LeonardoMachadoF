@@ -7,7 +7,7 @@
 
 📚 Estou atualmente estudanto sobre o ecossistema JavaScript para o Desenvolvimento Web, focando, para a construção do front end de minhas aplicações faço uso do framework 'Next', e em minhas aplicações no lado do servidor, faço uso do NodeJS.
 
-🖥️ Objetivos de 2022: Chegar em um patamar de conhecimento que me deixe competitivo o suficiente para conseguir entrar no mercado de trabalho.
+🖥️ Objetivos de 2023: Chegar em um patamar de conhecimento que me deixe competitivo o suficiente para conseguir entrar no mercado de trabalho.
 
  
 ## Sobre Mim
