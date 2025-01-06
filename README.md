@@ -1,7 +1,7 @@
 ##  **Olá! Eu sou Leonardo Machado!** &nbsp;
 
 
-🖥️ Front-End Developer!
+🖥️ FullStack Developer!
 
 🗺️ Eu sou de São José dos Campos - SP, Brasil. 
 
